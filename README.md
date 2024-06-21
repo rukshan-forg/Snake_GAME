@@ -11,6 +11,13 @@ This repository contains a simple Snake game implemented in Java using Swing. Th
 
 ## Installation
 
+1. **Run snake.exe:**
+    ```
+   double click snake.exe
+   ```
+    
+### ------------------ OR -----------------
+
 1. **Clone the repository:**
     ```bash
     git clone git@github.com:rukshan-forg/Snake_GAME.git
